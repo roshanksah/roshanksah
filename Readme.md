@@ -180,7 +180,7 @@ My long-term interests include:
 
 I'm always interested in connecting with developers, researchers, academics, and technology enthusiasts.
 
-- 💻 **GitHub:** [github.com/roshanksah](https://github.com/roshanksah)
+- 💻 **GitHub:** [Github Profile](https://github.com/roshanksah)
 - 🌐 **Explore:** [View My Portfolio](https://roshanksah.netlify.app/)
 
 ---
